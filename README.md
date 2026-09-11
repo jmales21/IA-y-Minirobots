@@ -3,6 +3,6 @@ Talleres teóricos, cuadernos en Google Colab, algoritmos bioinspirados y bitác
 
 Integrantes:
 
-Jose David Males Vasquez
-Nahem Samir Merheb Suarez
-Diego Alejandro Fajardo Espitia
+Jose David Males Vasquez,
+Nahem Samir Merheb Suarez,
+Diego Alejandro Fajardo Espitia,
