@@ -1,2 +1,2 @@
 # IA-y-Minirobots
-Desarrollo de actividades de cada documentos
+Talleres teóricos, cuadernos en Google Colab, algoritmos bioinspirados y bitácora de uso de IA generativa.
